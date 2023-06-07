@@ -1,0 +1,8 @@
+C:\Users\Nazeer_Shaik\source\repos\ConsoleAppDell1\ConsoleAppDell1\bin\Debug\ConsoleAppDell1.exe.config
+C:\Users\Nazeer_Shaik\source\repos\ConsoleAppDell1\ConsoleAppDell1\bin\Debug\ConsoleAppDell1.exe
+C:\Users\Nazeer_Shaik\source\repos\ConsoleAppDell1\ConsoleAppDell1\bin\Debug\ConsoleAppDell1.pdb
+C:\Users\Nazeer_Shaik\source\repos\ConsoleAppDell1\ConsoleAppDell1\obj\Debug\ConsoleAppDell1.csproj.AssemblyReference.cache
+C:\Users\Nazeer_Shaik\source\repos\ConsoleAppDell1\ConsoleAppDell1\obj\Debug\ConsoleAppDell1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nazeer_Shaik\source\repos\ConsoleAppDell1\ConsoleAppDell1\obj\Debug\ConsoleAppDell1.csproj.CoreCompileInputs.cache
+C:\Users\Nazeer_Shaik\source\repos\ConsoleAppDell1\ConsoleAppDell1\obj\Debug\ConsoleAppDell1.exe
+C:\Users\Nazeer_Shaik\source\repos\ConsoleAppDell1\ConsoleAppDell1\obj\Debug\ConsoleAppDell1.pdb
